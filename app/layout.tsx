@@ -13,8 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'DeepCanvas',
-  description: 'Unleash your plans.',
+  title: 'DeepProjects',
 };
 
 export default function RootLayout({
